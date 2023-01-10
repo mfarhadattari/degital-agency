@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header , main, footer{
+    border: 2px solid red;
+
+}
+section{
+    border: 2px solid red;
+}
+
+/* Header Section Styles */
+.nav-container{
+    background-color: #D5D2D2;
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    display: flex;
+    border: 2px solid red;
+}
+.nav{
+    display: flex;
+    border: 2px solid red;
+}
+.item{
+    list-style: none;
+    margin: 15px;
+    font-size: 20px;
+    font-weight: 700px;
+}
+.item a{
+    text-decoration: none;
+    color: black;
+}
+/* Main Section Styles */
+
+/* Footer Section Styles */
